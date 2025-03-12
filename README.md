@@ -65,7 +65,7 @@ CLI(명령형 인터페이스)로 키오스크가 수행되게 진행했으며, 
 
 ### Lv 5. 캡슐화 적용하기
 
-<a href="#">트러블 슈팅 5단계 TIL</a>
+<a href="https://dimenshun.tistory.com/38">트러블 슈팅 5단계 TIL</a>
 
 - [ ]  `MenuItem`, `Menu` 그리고 `Kiosk` 클래스의 필드에 직접 접근하지 못하도록 설정합니다.
 - [ ]  Getter와 Setter 메서드를 사용해 데이터를 관리합니다.
